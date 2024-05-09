@@ -11,3 +11,4 @@ git push -u origin Main/master
 
 This is for testing the branching
 
+this is from my terminal branching
