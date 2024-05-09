@@ -12,6 +12,7 @@ git push -u origin Main/master
 This is for testing the branching
 
 this is from my terminal branching
+<<<<<<< HEAD
 
 
 git branch branchname
@@ -23,3 +24,5 @@ git branch for checking the present branch
 then make changes 
 
 then finally git push -u origin the branch where i have made the changes
+=======
+>>>>>>> 90ea291c96320420df8ee0962481731eecdbf829
