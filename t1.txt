@@ -1,3 +1,11 @@
 hello there!
 Now i am changing for the another time
 This is my final changing
+
+For Clone operation
+1.git clone url
+
+git remote add origin url(for connection)
+
+git push -u origin Main/master
+
