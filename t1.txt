@@ -24,5 +24,5 @@ git branch for checking the present branch
 then make changes 
 
 then finally git push -u origin the branch where i have made the changes
-=======
->>>>>>> 90ea291c96320420df8ee0962481731eecdbf829
+
+hello i am branching this from my local terminal ok???
