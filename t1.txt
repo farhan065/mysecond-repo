@@ -11,3 +11,15 @@ git push -u origin Main/master
 
 This is for testing the branching
 
+this is from my terminal branching
+
+
+git branch branchname
+
+git checkout the new branch
+
+git branch for checking the present branch
+
+then make changes 
+
+then finally git push -u origin the branch where i have made the changes
